@@ -9,4 +9,4 @@ This project presents an interactive Job Market Analysis Dashboard focused on da
 💡 Skill Demand Analysis.  
 💰 Salary & Experience Insights & More!...
 
-### 🛠 Tool Used: Power BI
+### 🛠 Tool Used: Power BI.
